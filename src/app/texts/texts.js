@@ -13,8 +13,10 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "En Graphicspress, nos dedicamos a innovar en creatividad, ofreciendo servicios de papelería, impresión y fotocopiadora para satisfacer todas tus necesidades. Nuestro compromiso es brindarte la mejor calidad en cada proyecto.",
-        description2: "Contamos con un equipo apasionado y especializado que trabaja para hacer realidad tus ideas, asegurando que cada detalle sea perfecto. Ven y descubre cómo podemos ayudarte a destacar con nuestros servicios personalizados."
+        description1: "Graphicspress es tu socio ideal para todas tus necesidades de papelería, impresión y fotocopiado. Desde el año de su fundación, hemos estado comprometidos con la innovación y la creatividad en cada proyecto que emprendemos.\n" +
+            "Nos especializamos en ofrecer servicios de impresión de alta calidad, fotocopiado eficiente y una amplia gama de productos de papeleria. Nuestro equipo trabaja con pasión para asegurar que cada cliente reciba soluciones personalizadas y de primera clase.\n" +
+            "En Graphicspress, nuestro objetivo es hacer que tus ideas cobren vida con la mejor tecnología y un servicio excepcional. Ya sea para tus necesidades empresariales o personales, estamos aquí para ayudarte a lograr la perfección en cada detalle.\n" +
+            "Descubre cómo podemos transformar tus conceptos en realidad con innovación y creatividad. ¡En Graphicspress, hacemos que tu visión se imprima en cada página!"
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
